@@ -22,12 +22,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1948" />
-    <option name="y" value="248" />
-    <option name="width" value="1187" />
-    <option name="height" value="693" />
-  </component>
   <component name="ProjectId" id="1hfYhyMPKNgdm4Rl0y9EeL6wTUw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -117,5 +111,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="885" y="118" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600452611040" />
+    <state x="1086" y="129" width="592" height="687" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603428384711">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1086" y="129" width="592" height="687" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603428384711" />
   </component>
 </project>
