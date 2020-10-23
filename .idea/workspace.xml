@@ -184,9 +184,16 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="885" y="118" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600452611040" />
+<<<<<<< HEAD
+    <state x="1086" y="129" width="592" height="687" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603428384711">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1086" y="129" width="592" height="687" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603428384711" />
+=======
     <state x="974" y="278" key="Vcs.Push.Dialog.v2" timestamp="1603430343758">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="974" y="278" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1603430343758" />
+>>>>>>> 3ddeede0e827c7312014fa84e0aa011637d55cea
   </component>
 </project>
