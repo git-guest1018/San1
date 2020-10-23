@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,28 @@
       <recent name="C:\pub\git\CSC256Public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.whats_my_name">
+    <configuration name="whats_my_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC256Public" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gitremote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gitremote/whats_my_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_whats_my_name.test_my_name_is" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="CSC256Public" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +88,11 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.whats_my_name" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -82,6 +109,14 @@
       <workItem from="1562956237586" duration="124000" />
       <workItem from="1562957497511" duration="1434000" />
     </task>
+    <task id="LOCAL-00001" summary="Making changes to whats_my_name.py">
+      <created>1603430305528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603430305528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -90,30 +125,75 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Making changes to whats_my_name.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Making changes to whats_my_name.py" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="754" height="227" key="GridCell.Tab.0.bottom" timestamp="1600454461272">
+    <state x="1009" y="113" key="CommitChangelistDialog2" timestamp="1603430304944">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="754" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600454461272" />
-    <state width="754" height="227" key="GridCell.Tab.0.center" timestamp="1600454461272">
+    <state x="1009" y="113" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1603430304944" />
+    <state x="870" y="300" key="FileChooserDialogImpl" timestamp="1603433114678">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="754" height="227" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600454461272" />
-    <state width="754" height="227" key="GridCell.Tab.0.left" timestamp="1600454461272">
+    <state x="870" y="300" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1603433114678" />
+    <state width="930" height="341" key="GridCell.Tab.0.bottom" timestamp="1603431684136">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="754" height="227" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600454461272" />
-    <state width="754" height="227" key="GridCell.Tab.0.right" timestamp="1600454461272">
+    <state width="930" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.0.center" timestamp="1603431684136">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="754" height="227" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600454461272" />
+    <state width="930" height="341" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.0.left" timestamp="1603431684136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="930" height="341" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.0.right" timestamp="1603431684136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="930" height="341" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.1.bottom" timestamp="1603431684136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="930" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.1.center" timestamp="1603431684136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="930" height="341" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.1.left" timestamp="1603431684136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="930" height="341" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
+    <state width="930" height="341" key="GridCell.Tab.1.right" timestamp="1603431684136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="930" height="341" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603431684136" />
     <state x="885" y="118" key="SettingsEditor" timestamp="1600452611040">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="885" y="118" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600452611040" />
+<<<<<<< HEAD
     <state x="1086" y="129" width="592" height="687" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603428384711">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1086" y="129" width="592" height="687" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603428384711" />
+=======
+    <state x="974" y="278" key="Vcs.Push.Dialog.v2" timestamp="1603430343758">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="974" y="278" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1603430343758" />
+>>>>>>> 3ddeede0e827c7312014fa84e0aa011637d55cea
   </component>
 </project>
