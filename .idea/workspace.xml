@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,10 +144,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1009" y="113" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1603430304944" />
-    <state x="870" y="300" key="FileChooserDialogImpl" timestamp="1603431857695">
+    <state x="870" y="300" key="FileChooserDialogImpl" timestamp="1603433114678">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="870" y="300" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1603431857695" />
+    <state x="870" y="300" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1603433114678" />
     <state width="930" height="341" key="GridCell.Tab.0.bottom" timestamp="1603431684136">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
